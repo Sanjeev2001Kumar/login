@@ -1,0 +1,144 @@
+.header{
+  text-align:center;
+  background-color:yellow;
+  height:200px;
+}
+.desc{
+  border-bottom:5px black solid;
+  
+}
+marquee{
+  color:red;
+  font-size:20px;
+}
+
+.divisons{
+background-color:#FFF8DC;
+height:50px;
+padding-top:20px;
+font-size:25px;
+}
+
+.home{
+margin-right:60px;
+padding:4px;
+background-color:#A9A9A9;
+border:2px black solid;
+border-radius:10px;
+
+}
+
+
+.deptm{
+margin-right:60px;
+padding:4px;
+background-color:#A9A9A9;
+border:2px black solid;
+border-radius:10px;
+}
+
+
+.htp{
+margin-right:60px;
+padding:4px;
+background-color:#A9A9A9;
+border:2px black solid;
+border-radius:10px;
+}
+
+
+.faq{
+margin-right:60px;
+padding:4px;
+background-color:#A9A9A9;
+border:2px black solid;
+border-radius:10px;
+}
+
+.cont{
+margin-right:60px;
+padding:4px;
+background-color:#A9A9A9;
+border:2px black solid;
+border-radius:10px;
+}
+
+.log{
+background-color:#A9A9A9;
+padding:4px;
+border:2px black solid;
+border-radius:10px;
+}
+
+
+.userlogin{
+background-color:#6495ED;
+padding-bottom:30px;
+}
+
+
+#dept{
+border-bottom:5px black solid;
+width:160px;
+color:#6495ED;
+}
+
+
+.portimage{
+text-align:center;
+}
+
+
+#plant{
+
+margin-right:25%;
+}
+
+a:hover{
+background-color:#00FA9A;
+}
+
+
+.portal{
+background-color:#F0FFFF;
+
+}
+
+.agri{
+margin-right:35%;
+color:green;
+
+
+}
+
+.stud{
+color:red;
+}
+
+
+#Signin{
+border:5px;
+background-color:#FFD700;
+width:400px;
+height:400px;
+padding:15px;
+margin-left:35%;
+
+}
+
+
+
+
+.sign{
+border-bottom:2px black solid; 
+}
+
+.formup{
+margin-top:35px;
+height:500px;
+background-color:#6495ED;
+}
+
+.footer{
+background-color:#00008B;
+}
